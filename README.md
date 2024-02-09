@@ -4,4 +4,3 @@ To clone this project run the following command in git bash git clone https://gi
 
 Or click the download button to download the zip and extract it.
 
-~Debashish Choudhury
